@@ -7251,7 +7251,11 @@ input, select, textarea {
 		background: #40331f;
 		color: #fff;
 		}
-		.wrapper.style1.color-box .inner p a {
+	.wrapper.style1.color-box .inner img {
+		height: 3em;
+		margin-bottom: 30px;
+	}
+	.wrapper.style1.color-box .inner p a {
 			color: #fff;
 		}
 
