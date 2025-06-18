@@ -8745,6 +8745,12 @@ input, select, textarea {
 
 
 	/* 추가수정 css */
+
+	@media screen and (max-width: 837px) {
+		.banner.style1 h1 .warmth-logo {
+			height: 2em;
+		}
+	}
 	@media screen and (max-width: 689px) {
 		.banner.style1 h1 .warmth-logo {
 			height: 2em;
